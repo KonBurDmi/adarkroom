@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../script/dropbox.js:62
 msgid "Dropbox connection"
-msgstr "Подключение к Dropbox"
+msgstr "подключение к Dropbox"
 
 #: ../../script/dropbox.js:65
 msgid "connect game to dropbox local storage"
@@ -42,7 +42,7 @@ msgstr "Экспорт / Импорт"
 #: ../../script/dropbox.js:89
 #, fuzzy
 msgid "export or import save data to dropbox datastorage"
-msgstr "экспортируйте или импортируйте данные сохранения для резервной копии"
+msgstr "экспорт или импорт данные сохранения для резервной копии"
 
 #: ../../script/dropbox.js:90
 #, fuzzy
@@ -77,7 +77,7 @@ msgstr "выберите один из слотов, чтобы загрузит
 #: ../../script/dropbox.js:148
 #, fuzzy
 msgid "load from slot"
-msgstr "сохранить."
+msgstr "загрузить."
 
 #: ../../script/dropbox.js:179
 msgid "successfully saved to dropbox datastorage"
@@ -97,11 +97,11 @@ msgstr "боксер"
 
 #: ../../script/engine.js:16
 msgid "punches do more damage"
-msgstr "удары наносят больше повреждений"
+msgstr "удары наносят больше урона"
 
 #: ../../script/engine.js:18
 msgid "learned to throw punches with purpose"
-msgstr "научился наносить удары по цели"
+msgstr "научился бить сильно и точно"
 
 #: ../../script/engine.js:21
 msgid "martial artist"
@@ -109,7 +109,7 @@ msgstr "мастер боевых искусств"
 
 #: ../../script/engine.js:22
 msgid "punches do even more damage."
-msgstr "удары наносят гораздо больше повреждений."
+msgstr "удары наносят еще больше урона."
 
 #: ../../script/engine.js:23
 msgid "learned to fight quite effectively without weapons"
@@ -117,11 +117,11 @@ msgstr "научился эффективно драться без оружия
 
 #: ../../script/engine.js:27
 msgid "unarmed master"
-msgstr "безоружный мастер"
+msgstr "мастер рукопашного боя"
 
 #: ../../script/engine.js:28
 msgid "punch twice as fast, and with even more force"
-msgstr "бить вдвое быстрее и намного сильнее"
+msgstr "удары в два раза быстрее и намного сильнее"
 
 #: ../../script/engine.js:29
 msgid "learned to strike faster without weapons"
@@ -137,16 +137,16 @@ msgstr "оружие ближнего боя наносят больше уро�
 
 #: ../../script/engine.js:34
 msgid "learned to swing weapons with force"
-msgstr "научился размахивать оружие с силой"
+msgstr "научился размахивать оружием с силой"
 
 # contexte ?
 #: ../../script/engine.js:37
 msgid "slow metabolism"
-msgstr "замедленный обмен веществ"
+msgstr "замедленный метаболизм"
 
 #: ../../script/engine.js:38
 msgid "go twice as far without eating"
-msgstr "оставайтесь вдвое дольше без еды"
+msgstr "обходись без еды вдвое дольше"
 
 #: ../../script/engine.js:39
 msgid "learned how to ignore the hunger"
@@ -158,11 +158,11 @@ msgstr "пустынная крыса"
 
 #: ../../script/engine.js:43
 msgid "go twice as far without drinking"
-msgstr "оставайтесь вдвое дольше без воды"
+msgstr "обходись без воды вдвое дольше"
 
 #: ../../script/engine.js:44
 msgid "learned to love the dry air"
-msgstr "научился любить сухость"
+msgstr "научился любить сухой воздух"
 
 #: ../../script/engine.js:47
 msgid "evasive"
@@ -170,20 +170,20 @@ msgstr "неуловимый"
 
 #: ../../script/engine.js:48
 msgid "dodge attacks more effectively"
-msgstr "избегайте атаки более эффективно"
+msgstr "уклоняйСя от атак более эффективно"
 
 #: ../../script/engine.js:49
 msgid "learned to be where they're not"
-msgstr "научился уклоняться от ударов"
+msgstr "научился быть там где не ждут"
 
 #: ../../script/engine.js:52
 msgid "precise"
-msgstr "догадливый"
+msgstr "меткий"
 
 # description pour la précision ...
 #: ../../script/engine.js:53
 msgid "land blows more often"
-msgstr "поражайте врага чаще"
+msgstr "поражай врага чаще"
 
 #: ../../script/engine.js:54
 msgid "learned to predict their movement"
@@ -195,7 +195,7 @@ msgstr "разведчик"
 
 #: ../../script/engine.js:58
 msgid "see farther"
-msgstr "смотрите дальше"
+msgstr "смотри дальше"
 
 #: ../../script/engine.js:59
 msgid "learned to look ahead"
@@ -208,11 +208,11 @@ msgstr "скрытный"
 #: ../../script/engine.js:63
 #, fuzzy
 msgid "better avoid conflict in the wild"
-msgstr "лучше избегать конфликтов"
+msgstr "в дикой среде лучше избегать конфликта"
 
 #: ../../script/engine.js:64
 msgid "learned how not to be seen"
-msgstr "научился быть незаметным"
+msgstr "научился оставаться незамеченым"
 
 #: ../../script/engine.js:67
 msgid "gastronome"
@@ -220,11 +220,11 @@ msgstr "гурман"
 
 #: ../../script/engine.js:68
 msgid "restore more health when eating"
-msgstr "восстанавливайте больше здоровья когда едите"
+msgstr "еда восстанавливает больше здоровья"
 
 #: ../../script/engine.js:69
 msgid "learned to make the most of food"
-msgstr "научился делать еду лучше"
+msgstr "научился извлкать всю пользу из еды"
 
 #: ../../script/engine.js:138 ../../script/space.js:450
 msgid "app store."
@@ -236,11 +236,11 @@ msgstr "выключить свет."
 
 #: ../../script/engine.js:150 ../../script/engine.js:521
 msgid "hyper."
-msgstr ""
+msgstr "hyper."
 
 #: ../../script/engine.js:156 ../../script/space.js:442
 msgid "restart."
-msgstr "начать заново."
+msgstr "заново."
 
 #: ../../script/engine.js:162
 msgid "share."
@@ -264,7 +264,7 @@ msgstr "Экспорт / Импорт"
 
 #: ../../script/engine.js:272
 msgid "export or import save data, for backing up"
-msgstr "экспортируйте или импортируйте данные сохранения для резервной копии"
+msgstr "экспорт или импорт данных сохранения для резервной копии"
 
 #: ../../script/engine.js:273
 msgid "or migrating computers"
@@ -371,7 +371,7 @@ msgstr "{0} в {1} сек."
 
 #: ../../script/events.js:130
 msgid "eat meat"
-msgstr "есть мясо"
+msgstr "съесть мясо"
 
 #: ../../script/events.js:150
 msgid "use meds"
@@ -422,7 +422,7 @@ msgstr "взять:"
 #: ../../script/events.js:599
 #, fuzzy
 msgid "nothing to take"
-msgstr "ничего"
+msgstr "нечего взять"
 
 #: ../../script/events.js:627
 msgid "all"
@@ -470,7 +470,7 @@ msgstr "тощий человек мёртв."
 
 #: ../../script/events/encounters.js:76
 msgid "a gaunt man approaches, a crazed look in his eye"
-msgstr "тощий человек, с явно сумасшедшим взглядом, приближается к вам"
+msgstr "тощий человек с безумным взглядом приближается к вам"
 
 #: ../../script/events/encounters.js:81
 msgid "A Strange Bird"
@@ -487,7 +487,7 @@ msgstr "странная птица мертва"
 #: ../../script/events/encounters.js:113
 msgid "a strange looking bird speeds across the plains"
 msgstr ""
-"птица, выглядящая довольно странно, летит на большой скорости сквозь равнины"
+"странная птица стремительно пересекает равнины"
 
 #: ../../script/events/encounters.js:119
 msgid "A Shivering Man"
@@ -503,7 +503,7 @@ msgstr "дрожащий человек мёртв"
 
 #: ../../script/events/encounters.js:156
 msgid "a shivering man approaches and attacks with surprising strength"
-msgstr "дрожащей человек идёт на вас и атакует с неожиданно большой силой"
+msgstr "дрожащий человек подходит и атакует с удивительной силой"
 
 #: ../../script/events/encounters.js:161
 msgid "A Man-Eater"
@@ -519,55 +519,55 @@ msgstr "людоед мёртв"
 
 #: ../../script/events/encounters.js:193
 msgid "a large creature attacks, claws freshly bloodied"
-msgstr "большое существо с окровавленными когтями атакует"
+msgstr "большое существо нападает, на его когтях свежая кровь"
 
 #: ../../script/events/encounters.js:198
 msgid "A Scavenger"
-msgstr "Мусорщик"
+msgstr "Падальщик"
 
 #: ../../script/events/encounters.js:206
 msgid "scavenger"
-msgstr "мусорщик"
+msgstr "падальщик"
 
 #: ../../script/events/encounters.js:207
 msgid "the scavenger is dead"
-msgstr "мусорщик мёртв"
+msgstr "падальщик мёртв"
 
 #: ../../script/events/encounters.js:235
 msgid "a scavenger draws close, hoping for an easy score"
-msgstr "мусорщик приближается, надеясь на лёгкую победу"
+msgstr "падальщик приближается, надеясь на лёгкую добычу"
 
 #: ../../script/events/encounters.js:240
 msgid "A Huge Lizard"
-msgstr "Огромная ящерица"
+msgstr "Огромный ящер"
 
 #: ../../script/events/encounters.js:248
 msgid "lizard"
-msgstr "ящерица"
+msgstr "ящер"
 
 #: ../../script/events/encounters.js:249
 msgid "the lizard is dead"
-msgstr "ящерица мертва"
+msgstr "ящер мертв"
 
 #: ../../script/events/encounters.js:272
 msgid "the grass thrashes wildly as a huge lizard pushes through"
-msgstr "трава загибается под весом огромной ящерицы"
+msgstr "трава проминается под весом огромного ящера"
 
 #: ../../script/events/encounters.js:278
 msgid "A Feral Terror"
-msgstr "Ужасный зверь"
+msgstr "Жуткая тварь"
 
 #: ../../script/events/encounters.js:286
 msgid "feral terror"
-msgstr "ужасный зверь"
+msgstr "жуткая тварь"
 
 #: ../../script/events/encounters.js:287
 msgid "the feral terror is dead"
-msgstr "ужасный зверь мёртв"
+msgstr "жуткая тварь мертва"
 
 #: ../../script/events/encounters.js:310
 msgid "a beast, wilder than imagining, erupts out of the foliage"
-msgstr "огромный ужасающий зверь выпрыгивает на вас"
+msgstr "невероятно ужасная тварь выскакивает из леса"
 
 #: ../../script/events/encounters.js:315
 msgid "A Soldier"
@@ -616,7 +616,7 @@ msgstr "говорят, что он крал вещи оттуда."
 
 #: ../../script/events/global.js:15
 msgid "say he should be strung up as an example."
-msgstr "говорят, что он должен публично повешен. "
+msgstr "говорят, что он должен быть публично повешен. "
 
 #: ../../script/events/global.js:17
 msgid "a thief is caught"
@@ -645,7 +645,7 @@ msgstr "человек благодарит вас и обещает, что б�
 
 #: ../../script/events/global.js:50
 msgid "shares what he knows about sneaking before he goes."
-msgstr "перед уходом, он рассказывает вам всё, что знает."
+msgstr "перед уходом, он рассказывает вам всё, что знает о скрытности."
 
 #: ../../script/events/outside.js:6
 msgid "A Ruined Trap"
@@ -653,7 +653,7 @@ msgstr "Сломанная ловушка"
 
 #: ../../script/events/outside.js:13
 msgid "some of the traps have been torn apart."
-msgstr "некоторые ловушки оказались разодраны."
+msgstr "некоторые ловушки были разорваны."
 
 #: ../../script/events/outside.js:14
 msgid "large prints lead away, into the forest."
@@ -693,11 +693,11 @@ msgstr "вернуться домой"
 
 #: ../../script/events/outside.js:50
 msgid "not far from the village lies a large beast, its fur matted with blood."
-msgstr "недалеко от деревни лежит большой зверь, он весь в крови"
+msgstr "недалеко от деревни лежит большой зверь, шерсть покрыта кровью"
 
 #: ../../script/events/outside.js:51
 msgid "it puts up little resistance before the knife."
-msgstr "он слабо сопротивляется ножу"
+msgstr "он не в силах сопротивляться ножу"
 
 #: ../../script/events/outside.js:53
 #, fuzzy
@@ -711,12 +711,12 @@ msgstr "Пожар"
 #: ../../script/events/outside.js:76
 #, fuzzy
 msgid "a fire rampages through one of the huts, destroying it."
-msgstr "Огонь охватывает одну из ваших хижин, сжигая её дотла."
+msgstr "огонь охватывает одну из ваших хижин, сжигая её дотла."
 
 #: ../../script/events/outside.js:77
 #, fuzzy
 msgid "all residents in the hut perished in the fire."
-msgstr "К сожалению, все жители хижины погибли."
+msgstr "к сожалению, все жители хижины погибли."
 
 #: ../../script/events/outside.js:79
 msgid "a fire has started"
@@ -765,7 +765,7 @@ msgstr "больные исцелены"
 
 #: ../../script/events/outside.js:133
 msgid "the sickness spreads through the village."
-msgstr "по деревне распространилась болезнь."
+msgstr "по деревне распространяется болезнь."
 
 #: ../../script/events/outside.js:134
 msgid "the days are spent with burials."
@@ -777,7 +777,7 @@ msgstr "каждую ночь слышатся крики."
 
 #: ../../script/events/outside.js:137
 msgid "sufferers are left to die"
-msgstr "страдальцы остались умирать"
+msgstr "больные оставлены умирать"
 
 #: ../../script/events/outside.js:153
 msgid "Plague"
@@ -806,7 +806,7 @@ msgstr "ничего не делать"
 
 #: ../../script/events/outside.js:186
 msgid "the plague is kept from spreading."
-msgstr "чума перестает распространяться"
+msgstr "чума перестала распространяться"
 
 #: ../../script/events/outside.js:187
 msgid "only a few die."
@@ -826,11 +826,11 @@ msgstr "чума распространяется по деревне и уби�
 
 #: ../../script/events/outside.js:206
 msgid "the only hope is a quick death."
-msgstr "единственная надежда - на быструю смерть."
+msgstr "единственная надежда - быстрая смерть."
 
 #: ../../script/events/outside.js:208
 msgid "population is almost exterminated"
-msgstr "население почти истреблено"
+msgstr "население почти полностью истреблено"
 
 #: ../../script/events/outside.js:224
 msgid "A Beast Attack"
@@ -842,7 +842,7 @@ msgstr "стая диких зверей пришла из леса."
 
 #: ../../script/events/outside.js:232
 msgid "the fight is short and bloody, but the beasts are repelled."
-msgstr "борьба была короткой и кровавой, но звери отступили."
+msgstr "борьба была не долгой и кровавой, звери отступили."
 
 #: ../../script/events/outside.js:233
 msgid "the villagers retreat to mourn the dead."
@@ -875,11 +875,11 @@ msgstr "после стычки они ушли прочь, но не без п�
 #: ../../script/events/outside.js:269
 #, fuzzy
 msgid "troops storm the village"
-msgstr "чума распространяется по деревне и убивает всех на своём пути."
+msgstr "солдаты штурмуют деревню"
 
 #: ../../script/events/outside.js:283
 msgid "warfare is bloodthirsty"
-msgstr ""
+msgstr "Война кровожадна"
 
 #: ../../script/events/room.js:6
 msgid "The Nomad"
@@ -888,15 +888,15 @@ msgstr "Кочевник"
 #: ../../script/events/room.js:13
 msgid ""
 "a nomad shuffles into view, laden with makeshift bags bound with rough twine."
-msgstr "появляется кочевник с кучей сумок."
+msgstr "появляется кочевник нагруженный самодельными сумками перевязаными веревкой."
 
 #: ../../script/events/room.js:14
 msgid "won't say from where he came, but it's clear that he's not staying."
-msgstr "неизвестно откуда он пришёл, но он не останется."
+msgstr "неизвестно откуда он пришёл, но очевидно что задерживаться он не станет."
 
 #: ../../script/events/room.js:16
 msgid "a nomad arrives, looking to trade"
-msgstr "прибывший кочевник хочет поторговаться"
+msgstr "прибыл кочевник, хочет торговать"
 
 #: ../../script/events/room.js:20
 msgid "buy scales"
@@ -920,7 +920,7 @@ msgstr "купить компас"
 
 #: ../../script/events/room.js:42
 msgid "the old compass is dented and dusty, but it looks to work."
-msgstr "старый компас помят и весь в пыли, но выглядит вполне работающим."
+msgstr "старый компас помятый и пыльный, но все еще рабочий."
 
 #: ../../script/events/room.js:45 ../../script/events/room.js:227
 #: ../../script/events/room.js:240 ../../script/events/room.js:253
@@ -963,12 +963,12 @@ msgstr "звук прекратился."
 
 #: ../../script/events/room.js:83 ../../script/events/room.js:96
 msgid "go back inside"
-msgstr "вернуться обратно"
+msgstr "вернуться внутрь"
 
 #: ../../script/events/room.js:91
 msgid ""
 "a bundle of sticks lies just beyond the threshold, wrapped in coarse furs."
-msgstr "около порога лежит немного дров, завернутых в мех."
+msgstr "прямо около порога лежит немного дров, завернутых в мех."
 
 #: ../../script/events/room.js:92
 msgid "the night is silent."
@@ -976,7 +976,7 @@ msgstr "ночь сегодня тихая."
 
 #: ../../script/events/room.js:111
 msgid "scratching noises can be heard from the store room."
-msgstr "какие-то скребущиеся звуки слышатся со склада."
+msgstr "слышно как кто-то скребётся на складе."
 
 #: ../../script/events/room.js:112
 msgid "something's in there."
@@ -989,7 +989,7 @@ msgstr "на складе кто-то есть"
 #: ../../script/events/room.js:129 ../../script/events/room.js:149
 #: ../../script/events/room.js:169
 msgid "some wood is missing."
-msgstr "пропало несколько дров."
+msgstr "пропало немного дров."
 
 #: ../../script/events/room.js:130
 msgid "the ground is littered with small scales"
@@ -1013,7 +1013,7 @@ msgstr "приходит нищий."
 
 #: ../../script/events/room.js:198
 msgid "asks for any spare furs to keep him warm at night."
-msgstr "просит дать ему меха, чтобы он не мёрз по ночам."
+msgstr "просит дать ему меха, чтобы не мёрзнуть по ночам."
 
 #: ../../script/events/room.js:200
 msgid "a beggar arrives"
@@ -1036,7 +1036,7 @@ msgstr "прогнать его"
 #: ../../script/events/room.js:222 ../../script/events/room.js:235
 #: ../../script/events/room.js:248
 msgid "the beggar expresses his thanks."
-msgstr "нищий выражает свою благодарность."
+msgstr "нищий благодарит вас."
 
 #: ../../script/events/room.js:223
 msgid "leaves a pile of small scales behind."
@@ -1060,7 +1060,7 @@ msgid ""
 "back with more."
 msgstr ""
 "прибыл странник с пустой тележкой. говорит, что если вы дадите ему "
-"древесины, то он потом вернёт больше."
+"древесины, то позже он вернёт больше."
 
 #: ../../script/events/room.js:270
 msgid "builder's not sure he's to be trusted."
@@ -1089,7 +1089,7 @@ msgid ""
 "be back with more."
 msgstr ""
 "прибыла странница с пустой тележкой. говорит, что если вы дадите ей меха, то "
-"она потом вернёт больше."
+"позже она вернёт больше."
 
 #: ../../script/events/room.js:349
 msgid "builder's not sure she's to be trusted."
@@ -1145,7 +1145,7 @@ msgstr "прибыл старый странник."
 
 #: ../../script/events/room.js:467
 msgid "he smiles warmly and asks for lodgings for the night."
-msgstr "он добро улыбнулся и попросил ночлега."
+msgstr "тепло улыбнувшись он просит ночлега."
 
 #: ../../script/events/room.js:469
 msgid "an old wanderer arrives"
@@ -1161,11 +1161,11 @@ msgstr "в обмен на ночлег, странник предлагает �
 
 #: ../../script/events/room.js:493
 msgid "evasion"
-msgstr "уклонение"
+msgstr "неуловимость"
 
 #: ../../script/events/room.js:503
 msgid "precision"
-msgstr "точность "
+msgstr "меткость"
 
 #: ../../script/events/room.js:513
 msgid "force"
@@ -1237,15 +1237,15 @@ msgstr "безопасное место в лесах."
 
 #: ../../script/events/setpieces.js:34
 msgid "A Murky Swamp"
-msgstr "Тёмное Болото"
+msgstr "Мрачное Болото"
 
 #: ../../script/events/setpieces.js:38
 msgid "rotting reeds rise out of the swampy earth."
-msgstr "гниющие камыши поднялись из болота."
+msgstr "гниющие камыши торчат из болотной почвы."
 
 #: ../../script/events/setpieces.js:39
 msgid "a lone frog sits in the muck, silently."
-msgstr "одинокая лягушка сидит в грязи и молчит."
+msgstr "одинокая тихо лягушка сидит в грязи."
 
 # dur dur dur
 #: ../../script/events/setpieces.js:41
@@ -1278,13 +1278,13 @@ msgstr "странник берёт амулет и медленно кивае�
 
 #: ../../script/events/setpieces.js:73
 msgid "he speaks of once leading the great fleets to fresh worlds."
-msgstr "он рассказывает о том, как однажды вёл огромные флоты в новые миры."
+msgstr "он рассказывает о том, как однажды вёл огромный флот в новые миры."
 
 # :( :(
 #: ../../script/events/setpieces.js:74
 #, fuzzy
 msgid "unfathomable destruction to fuel wanderer hungers."
-msgstr "странник видел немыслимые разрушения."
+msgstr "немыслимые разрушения, лишь чтобы утолить нужды странника."
 
 #: ../../script/events/setpieces.js:75
 msgid "his time here, now, is his penance."
@@ -1296,15 +1296,15 @@ msgstr "Сырая Пещера"
 
 #: ../../script/events/setpieces.js:95
 msgid "the mouth of the cave is wide and dark."
-msgstr "вход в пещеру довольно большой и тёмный."
+msgstr "вход в пещеру большой и тёмный."
 
 #: ../../script/events/setpieces.js:96
 msgid "can't see what's inside."
-msgstr "отсюда в ней ничего не видно."
+msgstr "не видно что внутри."
 
 #: ../../script/events/setpieces.js:98
 msgid "the earth here is split, as if bearing an ancient wound"
-msgstr "земля здесь разделяется, как будто принимая древнюю рану"
+msgstr "земля здесь расходится, как от древней раны"
 
 #: ../../script/events/setpieces.js:101 ../../script/events/setpieces.js:2944
 #: ../../script/events/setpieces.js:3458
@@ -1363,7 +1363,7 @@ msgstr "пещера начинает сужаться."
 
 #: ../../script/events/setpieces.js:149
 msgid "the walls are moist and moss-covered"
-msgstr "стены покрыты мхом и очень влажные"
+msgstr "стены влажные и покрыты мхом"
 
 #: ../../script/events/setpieces.js:153
 msgid "squeeze"
@@ -1383,19 +1383,19 @@ msgstr "в пещере лежит тело странника."
 
 #: ../../script/events/setpieces.js:200
 msgid "rot's been to work on it, and some of the pieces are missing."
-msgstr "гниение сделало своё дело, некоторые части тела отсутствуют."
+msgstr "некоторые части его тела давно сгнили."
 
 #: ../../script/events/setpieces.js:202
 msgid "can't tell what left it here."
-msgstr "сложно сказать, что именно оставило его здесь."
+msgstr "сложно сказать почему он здесь оказался."
 
 #: ../../script/events/setpieces.js:241
 msgid "the torch sputters and dies in the damp air"
-msgstr "из-за сырости факел перестает светить и затухает"
+msgstr "из-за сырости факел затухает"
 
 #: ../../script/events/setpieces.js:242
 msgid "the darkness is absolute"
-msgstr "тьма наступает"
+msgstr "непроглядная тьма"
 
 #: ../../script/events/setpieces.js:244
 msgid "the torch goes out"
@@ -1403,11 +1403,11 @@ msgstr "факел гаснет"
 
 #: ../../script/events/setpieces.js:299
 msgid "a cave lizard attacks"
-msgstr "атакует пещерная ящерица"
+msgstr "пещерная ящерица атакует"
 
 #: ../../script/events/setpieces.js:333
 msgid "a large beast charges out of the dark"
-msgstr "большой зверь выходит из темноты"
+msgstr "большой зверь набрасывается из темноты"
 
 #: ../../script/events/setpieces.js:367
 msgid "a giant lizard shambles forward"
@@ -1419,26 +1419,26 @@ msgstr "в глубине пещеры находится гнездо боль�
 
 #: ../../script/events/setpieces.js:437
 msgid "a small supply cache is hidden at the back of the cave."
-msgstr "немного вещей спрятано в глубине пещеры."
+msgstr "маленький тайник укрыт в глубине пещеры."
 
 #: ../../script/events/setpieces.js:489
 msgid "an old case is wedged behind a rock, covered in a thick layer of dust."
-msgstr "позади камня стоит, покрытый пылью, старый шкаф"
+msgstr "за большим камнем лежит старый ящик покрытый толстым слоем пыли"
 
 #: ../../script/events/setpieces.js:522
 msgid "A Deserted Town"
-msgstr "Пустынный город"
+msgstr "Заброшенный город"
 
 #: ../../script/events/setpieces.js:526
 msgid "a small suburb lays ahead, empty houses scorched and peeling."
-msgstr "впереди находится небольшой город."
+msgstr "впереди небольшой пригород, пустые дома сожженные и разрушеные."
 
 #: ../../script/events/setpieces.js:527
 msgid ""
 "broken streetlights stand, rusting. light hasn't graced this place in a long "
 "time."
 msgstr ""
-"стоят ржавые и сломанные уличные фонари. это место не видело света уже давно."
+"стоят сломанные, поржавевшие фонари. это место уже давно не видело света."
 
 #: ../../script/events/setpieces.js:529
 msgid "the town lies abandoned, its citizens long dead"
@@ -1452,11 +1452,11 @@ msgstr "исследовать"
 msgid ""
 "where the windows of the schoolhouse aren't shattered, they're blackened "
 "with soot."
-msgstr "даже там, где окна школы не сломаны, они почернели от старости."
+msgstr "те окна школы что не были разбиты, почернели от сажы."
 
 #: ../../script/events/setpieces.js:545
 msgid "the double doors creak endlessly in the wind."
-msgstr "двойные двери бесконечно скрипят из-за ветра."
+msgstr "двойные двери неустанно скрипят на ветру."
 
 #: ../../script/events/setpieces.js:554 ../../script/events/setpieces.js:593
 #: ../../script/events/setpieces.js:611 ../../script/events/setpieces.js:649
@@ -1483,29 +1483,29 @@ msgstr "впереди находится какая-то постройка."
 
 #: ../../script/events/setpieces.js:602
 msgid "a green cross barely visible behind grimy windows."
-msgstr "за её грязными окнами едва видно зеленый крест."
+msgstr "сквозь грязные окна едва видно зеленый крест."
 
 #: ../../script/events/setpieces.js:618
 msgid "a small cache of supplies is tucked inside a rusting locker."
-msgstr "внутри ржавого шкафчика находится немного вещей."
+msgstr "внутри ржавого шкафчика находится немного припасов."
 
 #: ../../script/events/setpieces.js:680
 msgid "a scavenger waits just inside the door."
-msgstr "мусорщик поджидал вас около двери."
+msgstr "падальщик поджидал прямо за дверью."
 
 #: ../../script/events/setpieces.js:714
 msgid "a beast stands alone in an overgrown park."
-msgstr "в совсем заросшем парке стоит одинокий зверь."
+msgstr "в заросшем парке стоит одинокий зверь."
 
 #: ../../script/events/setpieces.js:730
 msgid "an overturned caravan is spread across the pockmarked street."
-msgstr "на дороге лежит перевёрнутый караван."
+msgstr "на потрескавшейся дороге лежит перевёрнутый караван."
 
 #: ../../script/events/setpieces.js:731
 msgid ""
 "it's been picked over by scavengers, but there's still some things worth "
 "taking."
-msgstr "хоть он и был ограблен мусорщиками, здесь еще что-то осталось."
+msgstr "хоть он и был разграблен, здесь еще кое-то осталось."
 
 #: ../../script/events/setpieces.js:793
 msgid "a madman attacks, screeching."
@@ -1513,11 +1513,11 @@ msgstr "сумасшедший с визгом атакует вас."
 
 #: ../../script/events/setpieces.js:832
 msgid "a thug moves out of the shadows."
-msgstr "бандит появляется из тени."
+msgstr "громила появляется из тени."
 
 #: ../../script/events/setpieces.js:866
 msgid "a beast charges out of a ransacked classroom."
-msgstr "зверь бежит на вас из разграбленного класса."
+msgstr "зверь бежит на вас из обчищенного класса."
 
 #: ../../script/events/setpieces.js:882
 msgid "through the large gymnasium doors, footsteps can be heard."
@@ -1525,7 +1525,7 @@ msgstr "сквозь большие двери спортзала слышатс
 
 #: ../../script/events/setpieces.js:883
 msgid "the torchlight casts a flickering glow down the hallway."
-msgstr "факел мерцает и освещает коридор."
+msgstr "факел освещает коридор своим мерцанием."
 
 #: ../../script/events/setpieces.js:884
 msgid "the footsteps stop."
@@ -1533,7 +1533,7 @@ msgstr "шаги прекратились."
 
 #: ../../script/events/setpieces.js:917
 msgid "another beast, draw by the noise, leaps out of a copse of trees."
-msgstr "еще один зверь, услышав шум, выпрыгивает из-за деревьев."
+msgstr "очередной зверь, услышав шум, выпрыгивает из-за деревьев."
 
 #: ../../script/events/setpieces.js:933
 msgid "something's causing a commotion a ways down the road."
@@ -1550,19 +1550,19 @@ msgstr "под скамейкой в парке спрятана корзина 
 
 #: ../../script/events/setpieces.js:950
 msgid "can't read the words."
-msgstr "но слова на ней не удаётся прочитать."
+msgstr "слова не удаётся прочесть."
 
 #: ../../script/events/setpieces.js:997
 msgid "a panicked scavenger bursts through the door, screaming."
-msgstr "орущий мусорщик врывается через дверь."
+msgstr "орущий падальщик врывается через дверь."
 
 #: ../../script/events/setpieces.js:1036
 msgid "a man stands over a dead wanderer. notices he's not alone."
-msgstr "человек стоит над мертвым странником. вдруг, он замечает вас."
+msgstr "человек стоит над мертвым странником. он понял, что не один."
 
 #: ../../script/events/setpieces.js:1052
 msgid "scavenger had a small camp in the school."
-msgstr "у мусорщика был небольшой лагерь в школе."
+msgstr "у падальщика был небольшой лагерь в школе."
 
 #: ../../script/events/setpieces.js:1053
 msgid "collected scraps spread across the floor like they fell from heaven."
@@ -1570,30 +1570,30 @@ msgstr "собранные им вещи разбросаны по полу та
 
 #: ../../script/events/setpieces.js:1095
 msgid "scavenger'd been looking for supplies in here, it seems."
-msgstr "мусорщик, видимо, искал здесь полезные вещи."
+msgstr "падальщик похоже искал здесь припасы."
 
 #: ../../script/events/setpieces.js:1096
 msgid "a shame to let what he'd found go to waste."
-msgstr "это позорно, что всё это было зря."
+msgstr "было бы жалко, если бы все что он нашел пропало зря."
 
 #: ../../script/events/setpieces.js:1128
 msgid ""
 "beneath the wanderer's rags, clutched in one of its many hands, a glint of "
 "steel."
 msgstr ""
-"в тряпке, которую держал в руке странник, было укутано что-то стальное."
+"под одеждами странника, зажатый в одну из его нескольких рук, стальной предмет."
 
 #: ../../script/events/setpieces.js:1129
 msgid "worth killing for, it seems."
-msgstr "наверное, это стоило смерти."
+msgstr "наверное это стоило убийств."
 
 #: ../../script/events/setpieces.js:1156
 msgid "eye for an eye seems fair."
-msgstr "око за око - это довольно справедливо."
+msgstr "око за око - справедливо."
 
 #: ../../script/events/setpieces.js:1157
 msgid "always worked before, at least."
-msgstr "по крайней мере, раньше это всегда работало."
+msgstr "по крайней мере раньше срабатывало."
 
 #: ../../script/events/setpieces.js:1158
 msgid "picking the bones finds some useful trinkets."
@@ -1609,7 +1609,7 @@ msgstr "больница была разграблена."
 
 #: ../../script/events/setpieces.js:1223
 msgid "only dust and stains remain."
-msgstr "только лишь пыль и пятна остались внутри."
+msgstr "остались лишь пыль и пятна остались."
 
 #: ../../script/events/setpieces.js:1239
 msgid "A Ruined City"
@@ -1619,23 +1619,23 @@ msgstr "Разрушенный город"
 msgid ""
 "a battered highway sign stands guard at the entrance to this once-great city."
 msgstr ""
-"сломанный дорожный знак стоит на страже этого, когда-то прекрасного, города."
+"сломанный дорожный знак гордо стоит на въезде этого, когда-то прекрасного, города."
 
 #: ../../script/events/setpieces.js:1244
 msgid ""
 "the towers that haven't crumbled jut from the landscape like the ribcage of "
 "some ancient beast."
 msgstr ""
-"башни, еще не разрушенные временем, возвышаются над городом как грудь "
+"башни, еще не разрушенные временем, возвышаются над городом как ребра "
 "древнего зверя."
 
 #: ../../script/events/setpieces.js:1245
 msgid "might be things worth having still inside."
-msgstr "может быть внутри остались еще какие-то вещи."
+msgstr "может быть внутри осталось еще что-то полезное."
 
 #: ../../script/events/setpieces.js:1247
 msgid "the towers of a decaying city dominate the skyline"
-msgstr "башни разрушающегося города занимают всё небо"
+msgstr "башни разрушенного города скрывают горизонт"
 
 #: ../../script/events/setpieces.js:1261
 msgid "the streets are empty."
@@ -1643,7 +1643,7 @@ msgstr "улицы пусты."
 
 #: ../../script/events/setpieces.js:1262
 msgid "the air is filled with dust, driven relentlessly by the hard winds."
-msgstr "подул сильный ветер и всё заполнилось пылью."
+msgstr "подул сильный ветер и воздух наполнила пыль."
 
 #: ../../script/events/setpieces.js:1270 ../../script/events/setpieces.js:1286
 #: ../../script/events/setpieces.js:1302 ../../script/events/setpieces.js:1318
@@ -1676,16 +1676,16 @@ msgstr "покинуть город"
 #: ../../script/events/setpieces.js:1277
 msgid "orange traffic cones are set across the street, faded and cracked."
 msgstr ""
-"оранжевые дорожные конусы установлены на дороге, они совсем выцвели и "
+"оранжевые дорожные конусы установлены на дороге, они выцвели и "
 "потрескались."
 
 #: ../../script/events/setpieces.js:1278
 msgid "lights flash through the alleys between buildings."
-msgstr "между зданий, впереди по аллее, мигает какой-то свет."
+msgstr "на аллее между зданий мерцает свет."
 
 #: ../../script/events/setpieces.js:1293
 msgid "a large shanty town sprawls across the streets."
-msgstr "большие упавшие башни расстилаются по всему городу."
+msgstr "огромные трущобы растянулись вдоль улиц."
 
 #: ../../script/events/setpieces.js:1294
 msgid "faces, darkened by soot and blood, stare out from crooked huts."
@@ -1697,7 +1697,7 @@ msgstr "впереди виднеется местный госпиталь."
 
 #: ../../script/events/setpieces.js:1325
 msgid "the old tower seems mostly intact."
-msgstr "старая башня, на первый взгляд, выглядит нетронутой."
+msgstr "старая башня кажется более менее целой."
 
 #: ../../script/events/setpieces.js:1326
 msgid "the shell of a burned out car blocks the entrance."
@@ -1705,7 +1705,7 @@ msgstr "остатки сгоревшего автомобиля преграж�
 
 #: ../../script/events/setpieces.js:1327
 msgid "most of the windows at ground level are busted anyway."
-msgstr "но окна первых этажей открыты."
+msgstr "окна первых этажей выбиты так или иначе."
 
 #: ../../script/events/setpieces.js:1342
 msgid "a huge lizard scrambles up out of the darkness of an old metro station."
@@ -1717,23 +1717,23 @@ msgstr "спуститься"
 
 #: ../../script/events/setpieces.js:1380
 msgid "the shot echoes in the empty street."
-msgstr "слышится эхо выстрела."
+msgstr "выстрел гремит над пустой улицей."
 
 #: ../../script/events/setpieces.js:1420
 msgid "the soldier steps out from between the buildings, rifle raised."
-msgstr "солдат появляется между двумя строениями и начинает огонь из винтовки."
+msgstr "солдат выходит из переулка, винтовка на готове."
 
 #: ../../script/events/setpieces.js:1460
 msgid "a frail man stands defiantly, blocking the path."
-msgstr "вам преграждает путь довольно хилый человек."
+msgstr "хилый человек преграждает путь."
 
 #: ../../script/events/setpieces.js:1505
 msgid "nothing but downcast eyes."
-msgstr "здесь нет ничего, кроме опущенных глаз."
+msgstr "нет ничего, только удрученные взгляды."
 
 #: ../../script/events/setpieces.js:1506
 msgid "the people here were broken a long time ago."
-msgstr "люди ушли отсюда уже давно."
+msgstr "люди уже давно покинули это место."
 
 #: ../../script/events/setpieces.js:1521
 msgid "empty corridors."
@@ -1741,15 +1741,15 @@ msgstr "коридоры пусты."
 
 #: ../../script/events/setpieces.js:1522
 msgid "the place has been swept clean by scavengers."
-msgstr "это место было разграблено мусорщиками."
+msgstr "это место было разграблено."
 
 #: ../../script/events/setpieces.js:1536
 msgid "an old man bursts through a door, wielding a scalpel."
-msgstr "старик, в руках у которого скальпель, врывается из двери."
+msgstr "старик со скальпелем в руках, врывается в дверь."
 
 #: ../../script/events/setpieces.js:1575
 msgid "a thug is waiting on the other side of the wall."
-msgstr "с другой стороны стены выбегает бандит и атакует вас."
+msgstr "громила поджидал вас за стеной."
 
 #: ../../script/events/setpieces.js:1615
 msgid "a snarling beast jumps out from behind a car."
@@ -1757,23 +1757,23 @@ msgstr "дикий зверь выскакивает из-за автомоби�
 
 #: ../../script/events/setpieces.js:1656
 msgid "street above the subway platform is blown away."
-msgstr "улица над станцией метро была снесена."
+msgstr "улица над станцией метро была взорвана."
 
 #: ../../script/events/setpieces.js:1657
 msgid "lets some light down into the dusty haze."
-msgstr "свет факела освещает шахту."
+msgstr "свет факела освещает пыльную шахту."
 
 #: ../../script/events/setpieces.js:1658
 msgid "a sound comes from the tunnel, just ahead."
-msgstr "из туннеля доносится какой-то звук."
+msgstr "из туннеля над головой доносится звук."
 
 #: ../../script/events/setpieces.js:1675
 msgid "looks like a camp of sorts up ahead."
-msgstr "похоже впереди какой-то лагерь."
+msgstr "похоже впереди что-то вроде лагеря."
 
 #: ../../script/events/setpieces.js:1677
 msgid "rusted chainlink is pulled across an alleyway."
-msgstr "вокруг аллеи построен забор."
+msgstr "аллея окружена ржавым забором."
 
 #: ../../script/events/setpieces.js:1678
 msgid "fires burn in the courtyard beyond."
@@ -1781,27 +1781,27 @@ msgstr "за ним, во дворе, горит огонь."
 
 #: ../../script/events/setpieces.js:1694
 msgid "more voices can be heard ahead."
-msgstr "всё больше голосов слышится вокруг."
+msgstr "всё больше голосов доносится сверху."
 
 #: ../../script/events/setpieces.js:1695
 msgid "they must be here for a reason."
-msgstr "должно быть, это не спроста. "
+msgstr "должно быть они здесь не спроста. "
 
 #: ../../script/events/setpieces.js:1711
 msgid "the sound of gunfire carries on the wind."
-msgstr "звук выстрела несётся по ветру."
+msgstr "ветер доносит звук выстрела."
 
 #: ../../script/events/setpieces.js:1712
 msgid "the street ahead glows with firelight."
-msgstr "улица впереди освещается пламенем."
+msgstr "улица впереди освещена пламенем."
 
 #: ../../script/events/setpieces.js:1729
 msgid "more squatters are crowding around now."
-msgstr "вокруг вас столпились поселенцы, они о чём-то шумят."
+msgstr "вокруг толпятся местные, они о чём-то шумят."
 
 #: ../../script/events/setpieces.js:1730
 msgid "someone throws a stone."
-msgstr "кто-то кинул камень."
+msgstr "кто-то бросил камень."
 
 #: ../../script/events/setpieces.js:1746
 msgid "an improvised shop is set up on the sidewalk."
@@ -1813,24 +1813,24 @@ msgstr "рядом с ним стоит хозяин."
 
 #: ../../script/events/setpieces.js:1792
 msgid "strips of meat hang drying by the side of the street."
-msgstr "на одной стороне улицы развешены полоски мяса."
+msgstr "у дороги развешены полоски мяса."
 
 #: ../../script/events/setpieces.js:1793
 msgid "the people back away, avoiding eye contact."
-msgstr "люди решили уйти, избегая вашего взгляда."
+msgstr "люди расступаются, пряча глаза."
 
 #: ../../script/events/setpieces.js:1818
 msgid "someone has locked and barricaded the door to this operating theatre."
-msgstr "кто-то закрыл и забаррикадировал дверь, ведущую в операционную."
+msgstr "кто-то закрыл и забаррикадировал дверь ведущую в операционную."
 
 #: ../../script/events/setpieces.js:1833
 #, fuzzy
 msgid "a tribe of elderly squatters is camped out in this ward."
-msgstr "здесь находится племя пожилых поселенцев."
+msgstr "племя пожилых поселенцев устроило лагерь в палате."
 
 #: ../../script/events/setpieces.js:1874
 msgid "a pack of lizards rounds the corner."
-msgstr "стая ящериц ползёт к вам из-за угла."
+msgstr "стая ящериц выползает из-за угла."
 
 #: ../../script/events/setpieces.js:1916
 msgid "strips of meat are hung up to dry in this ward."
@@ -1838,11 +1838,11 @@ msgstr "в палатке развешены сушиться полоски м�
 
 #: ../../script/events/setpieces.js:1940
 msgid "a large bird nests at the top of the stairs."
-msgstr "наверху лестницы находится птичье гнездо."
+msgstr "на лестнице гнедится большая птица."
 
 #: ../../script/events/setpieces.js:1971
 msgid "the debris is denser here."
-msgstr "мусора здесь гораздо больше."
+msgstr "обломков здесь гораздо больше."
 
 #: ../../script/events/setpieces.js:1972
 msgid "maybe some useful stuff in the rubble."
@@ -1850,11 +1850,11 @@ msgstr "может быть найдётся что-нибудь полезно�
 
 #: ../../script/events/setpieces.js:2011
 msgid "a swarm of rats rushes up the tunnel."
-msgstr "стая крыс бегут вверх по туннелю."
+msgstr "стая крыс бежит по туннелю."
 
 #: ../../script/events/setpieces.js:2047
 msgid "a large man attacks, waving a bayonet."
-msgstr "большой человек, размахивая штыком, атакует вас."
+msgstr "большой человек нападает, размахивая штыком."
 
 #: ../../script/events/setpieces.js:2082
 msgid "a second soldier opens fire."
@@ -1862,15 +1862,15 @@ msgstr "второй солдат открывает огонь."
 
 #: ../../script/events/setpieces.js:2123
 msgid "a masked soldier rounds the corner, gun drawn"
-msgstr "солдат в маске заворачивает за угол, у него виден пистолет"
+msgstr "солдат в маске выходит из-за угла с оружием наготове"
 
 #: ../../script/events/setpieces.js:2164
 msgid "the crowd surges forward."
-msgstr "толпа бежит на вас."
+msgstr "толпа нахлынула на вас."
 
 #: ../../script/events/setpieces.js:2200
 msgid "a youth lashes out with a tree branch."
-msgstr "группа подростков спрыгивает с дерева."
+msgstr "группа подростков несётся размахивая ветками."
 
 #: ../../script/events/setpieces.js:2235
 msgid "a squatter stands firmly in the doorway of a small hut."
@@ -1879,11 +1879,11 @@ msgstr "поселенец преграждает вход в маленькую
 #: ../../script/events/setpieces.js:2270
 msgid "behind the door, a deformed figure awakes and attacks."
 msgstr ""
-"прямо за дверью появляется человек с деформированным телом, он атакует вас."
+"изуродованный челавек нападает из-за двери."
 
 #: ../../script/events/setpieces.js:2310
 msgid "as soon as the door is open a little bit, hundreds of tentacles erupt."
-msgstr "как только дверь открывается, выскакивают сотни щупальцев."
+msgstr "из приоткрытой двери вырывается сотня щупалец."
 
 #: ../../script/events/setpieces.js:2337
 msgid "bird must have liked shiney things."
@@ -1891,15 +1891,15 @@ msgstr "похоже птице нравятся блестящие вещи."
 
 #: ../../script/events/setpieces.js:2338
 msgid "some good stuff woven into its nest."
-msgstr "несколько хороших вещей вплетено в это гнездо."
+msgstr "несколько полезных штук вплетено в её гнездо."
 
 #: ../../script/events/setpieces.js:2372
 msgid "not much here."
-msgstr "не так уж и много тут всего."
+msgstr "не богато тут."
 
 #: ../../script/events/setpieces.js:2373
 msgid "scavengers must have gotten to this place already."
-msgstr "похоже, что мусорщики уже разграбили это место."
+msgstr "похоже, что это место уже разграбили."
 
 #: ../../script/events/setpieces.js:2403
 msgid "the tunnel opens up at another platform."
@@ -1907,11 +1907,11 @@ msgstr "туннель ведёт к другой платформе."
 
 #: ../../script/events/setpieces.js:2404
 msgid "the walls are scorched from an old battle."
-msgstr "все стены обгорели от прошлой битвы."
+msgstr "все стены обгорели после битвы."
 
 #: ../../script/events/setpieces.js:2405
 msgid "bodies and supplies from both sides litter the ground."
-msgstr "тела и снаряжение двух сторон разбросаны по земле."
+msgstr "тела и снаряжение обеих сторон разбросаны по земле."
 
 #: ../../script/events/setpieces.js:2449
 msgid "the small military outpost is well supplied."
@@ -1927,11 +1927,11 @@ msgstr ""
 
 #: ../../script/events/setpieces.js:2451
 msgid "just as deadly now as they were then."
-msgstr "такие же смертельные, как раньше."
+msgstr "такие же убийственные, как раньше."
 
 #: ../../script/events/setpieces.js:2485
 msgid "searching the bodies yields a few supplies."
-msgstr "вы обыскали тела и нашли несколько вещей."
+msgstr "при обыске тел нашлось немнного припасов."
 
 #: ../../script/events/setpieces.js:2486
 msgid "more soldiers will be on their way."
@@ -1939,20 +1939,20 @@ msgstr "приближаются еще солдаты."
 
 #: ../../script/events/setpieces.js:2487
 msgid "time to move on."
-msgstr "настало время уходить."
+msgstr "пора уходить."
 
 #: ../../script/events/setpieces.js:2526
 msgid "the small settlement has clearly been burning a while."
-msgstr "это небольшое поселение, видимо, горело долгое время."
+msgstr "небольшое поселение вероятно уже давно горит."
 
 #: ../../script/events/setpieces.js:2527
 msgid ""
 "the bodies of the wanderers that lived here are still visible in the flames."
-msgstr "тела живших здесь людей до сих пор видны в пламени."
+msgstr "тела странников, живших здесь, все еще можно разглядеть в пламени."
 
 #: ../../script/events/setpieces.js:2528
 msgid "still time to rescue a few supplies."
-msgstr "еще есть время спасти что-нибудь."
+msgstr "еще можно что-нибудь спасти."
 
 #: ../../script/events/setpieces.js:2562
 msgid ""
@@ -1961,15 +1961,15 @@ msgstr "выжившие поселенцы бежали отсюда и ост�
 
 #: ../../script/events/setpieces.js:2563
 msgid "there's not much, but some useful things can still be found."
-msgstr "тут не так уж и много всего, но что-то может оказаться полезным."
+msgstr "тут не так уж и много всего, но кое-что может оказаться полезным."
 
 #: ../../script/events/setpieces.js:2597
 msgid "the young settler was carrying a canvas sack."
-msgstr "молодой поселенец несёт за собой мешок."
+msgstr "молодой поселенец нёс с собой мешок."
 
 #: ../../script/events/setpieces.js:2598
 msgid "it contains travelling gear, and a few trinkets."
-msgstr "в нём находятся полезные в дороге вещи, а также несколько безделушек."
+msgstr "в нём собрано походное снаряжение и пара безделушек."
 
 #: ../../script/events/setpieces.js:2599 ../../script/events/setpieces.js:2635
 msgid "there's nothing else here."
@@ -1977,11 +1977,11 @@ msgstr "больше здесь ничего нет."
 
 #: ../../script/events/setpieces.js:2633
 msgid "inside the hut, a child cries."
-msgstr "внутри хижины находится плачущий ребёнок."
+msgstr "внутри хижины плачущий ребёнок."
 
 #: ../../script/events/setpieces.js:2634
 msgid "a few belongings rest against the walls."
-msgstr "в стену упирается несколько вещей."
+msgstr "у стены лежат вещи."
 
 #: ../../script/events/setpieces.js:2674
 msgid "the stench of rot and death fills the operating theatres."
